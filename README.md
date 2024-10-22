@@ -15,7 +15,7 @@ Este é um projeto básico de uma **calculadora** desenvolvida com **HTML**, **C
 - **JavaScript**: Lógica de funcionamento das operações.
 
 ## 🎨 Captura de Tela  
-*(Opcional: adicionar uma imagem do projeto funcionando aqui)*
+![image](https://github.com/user-attachments/assets/a3c0ae50-6a1c-455b-951a-43917363671b)
 
 ---
 
