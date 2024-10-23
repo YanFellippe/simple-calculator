@@ -23,4 +23,4 @@ Este é um projeto básico de uma **calculadora** desenvolvida com **HTML**, **C
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-simples.git
+   git clone https://github.com/YanFellippe/calculadora-simples.git
